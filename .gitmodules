@@ -1,0 +1,4 @@
+[submodule "accounts"]
+	path = accounts
+	url = https://github.com/tiago-bitten/CSMix.Accounts.git
+	branch = main
