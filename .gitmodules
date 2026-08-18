@@ -2,3 +2,23 @@
 	path = accounts
 	url = https://github.com/tiago-bitten/CSMix.Accounts.git
 	branch = main
+[submodule "bff"]
+	path = bff
+	url = https://github.com/tiago-bitten/CSMix.BFF.git
+	branch = main
+[submodule "matchmaking"]
+	path = matchmaking
+	url = https://github.com/tiago-bitten/CSMix.Matchmaking.git
+	branch = main
+[submodule "matches"]
+	path = matches
+	url = https://github.com/tiago-bitten/CSMix.Matches.git
+	branch = main
+[submodule "gameservers"]
+	path = gameservers
+	url = https://github.com/tiago-bitten/CSMix.GameServers.git
+	branch = main
+[submodule "rating"]
+	path = rating
+	url = https://github.com/tiago-bitten/CSMix.Rating.git
+	branch = main
